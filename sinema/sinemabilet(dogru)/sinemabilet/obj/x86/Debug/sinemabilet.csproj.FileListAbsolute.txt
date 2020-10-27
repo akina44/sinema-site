@@ -1,0 +1,85 @@
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\idea\Desktop\oto.masyon\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+D:\sinemabilet\sinemabilet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+D:\sinemabilet\sinemabilet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sinemabilet\sinemabilet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+D:\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+D:\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\idea\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\Ferman\Desktop\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\idea\Desktop\Yeni klasör (2)\test\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\idea\Desktop\ASP 2\sinemabilet\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.csprojResolveAssemblyReference.cache
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Form1.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Form2.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Form3.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Form4.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Form5.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.csproj.GenerateResource.Cache
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\idea\Desktop\sinemabilet(dogru)\sinemabilet\obj\x86\Debug\sinemabilet.pdb
